@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on blockchain technology.<br>I am good at visualizing data.<br>I can code in - Java, C++, C, Python, JS.
+currently learing and working on various things like blockchain technology, DevOps etc..<br> good at visualizing data.<br> languages comfortable with - Java, C++, C, Python, JS.
 
 
 ## 🌐 Socials:
